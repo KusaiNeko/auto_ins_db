@@ -1,0 +1,6 @@
+*.txt
+*.csv
+*.pyc
+database.ini
+eda_pol.py
+*.sas7bdat
